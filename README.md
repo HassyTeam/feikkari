@@ -1,6 +1,7 @@
-<img src="/.github/assets/hassyfeikkari-banner-text.png" style="max-width:360px;">
+<center><img src="/.github/assets/hassyfeikkari-banner-text-white.png" style="max-width:360px;"></center>
+
 ### *Feikkari™, redefined.*
-<img src="/.github/assets/screenshot-linux.png" alt="A screenshot of the application running on Linux"/>
+<center><img src="/.github/assets/screenshot-linux.png" alt="A screenshot of the application running on Linux"/></center>
 <hr>
 
 ## What is HassyFeikkari™
