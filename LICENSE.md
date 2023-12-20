@@ -1,21 +1,20 @@
 # Licensing
 
 This file holds the licensing specifications for the code and branding in this repository.
-The first license (below) is the license that the code of this repo is licensed under.
 
+----
 
 The code in this repository is protected by the;
 
-# MIT License
-
 ```
+Has&MIT License
+
 Copyright (c) 2023 Hassy Team™
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+in the Software without almost any restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute and/or sublicense the Software, but excluding the right to sell the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
@@ -30,8 +29,23 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+### TL;DR
+
+Permissions:
+- Distribution
+- Modification
+- Private use
+
+Conditions:
+- License and copyright notice
+
+Limitations:
+- Commercial use
+- Liability
+- Warranty
+
 ----
 
-Feikkari™ brand licensing.
+## *Feikkari™* brand licensing.
 
 (be soon added here)
