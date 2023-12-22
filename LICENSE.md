@@ -14,7 +14,8 @@ Copyright (c) 2023 Hassy Team™
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without almost any restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute and/or sublicense the Software, but excluding the right to sell the Software, and to permit persons to whom the Software is
+to use, copy, modify, merge, publish, distribute and/or sublicense the Software,
+but excluding the right to sell the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
